@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage - Pengyu Cheng"
+excerpt: "Homepage - Pengyu Cheng"
 author_profile: true
 redirect_from: 
   - /about/
