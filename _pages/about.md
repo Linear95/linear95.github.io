@@ -10,7 +10,7 @@ redirect_from:
 Welcome to Pengyu Cheng's homepage!
 
 
-I am currently a researcher at Alibaba Group, leading Quark Foundation LLM RL Team. Our Team focuses on enhancing LLMs' capacity via RLHF, RLVR, and Agentic RL.
+I am currently a researcher at Alibaba Group, leading Quark Foundation LLM RL Team. Our team focuses on enhancing LLMs' capacity via RLHF, RLVR, and agentic RL.
 
 I was previously a member of the RL & Agent Team at Moonshot AI (Kimi), and the Hunyuan LLM Team at Tencent AI Lab. I have conducted research and projects about LLM Self-play, Alignment (RLHF), Text Generation, and NLP Fairness. Besides, I worked on Bayesian and probabilistic machine learning at graduate school.
 
