@@ -10,8 +10,9 @@ redirect_from:
 Welcome to Pengyu Cheng's homepage!
 
 
-I am a senior researcher at Tencent AI Lab, working on LLM training, AI agents, and dialogue systems. I have professional experiences in research and projects about LLM Self-play, Alignment (RLHF), Text Generation, and NLP Fairness. Besides, I worked on Bayesian and probabilistic machine learning at graduate school.
+I am currently a researcher at Alibaba Group, leading Quark Foundation LLM RL Team. Our Team focuses on enhancing LLMs' capacity via RLHF, RLVR, and Agentic RL.
 
+I was previously a member of the RL & Agent Team at Moonshot AI (Kimi), and the Hunyuan LLM Team at Tencent AI Lab. I have conducted research and projects about LLM Self-play, Alignment (RLHF), Text Generation, and NLP Fairness. Besides, I worked on Bayesian and probabilistic machine learning at graduate school.
 
 I received my Ph.D. from the Department of Electric and Computer Engineering at Duke University in 2021. My Ph.D. advisor is Dr. [Lawrence Carin](http://people.ee.duke.edu/~lcarin/). I graduated with my B.S. from the Department of Mathematical Sciences at Tsinghua University in 2017.
 

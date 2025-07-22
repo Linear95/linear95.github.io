@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Pengyu Cheng"
-description              : &description "Senior Researcher at Tencent"
+description              : &description "Researcher at Alibaba Group"
 url                      : https://linear95.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Linear95/linear95.github.io"
@@ -24,7 +24,7 @@ author:
   # Biographic information
   name             : "Pengyu Cheng"
   avatar           : "avatar.jpeg"
-  bio              : "Senior Researcher at Tencent"
+  bio              : "Researcher at Alibaba Group"
   location         : 
   employer         :
   email            : "pengyucheng95@gmail.com"

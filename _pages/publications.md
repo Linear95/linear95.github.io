@@ -42,7 +42,9 @@ author_profile: true
 
 ## Technical Reports:
 
-3. **P. Cheng**, J. Xie, K. Bai, Y. Dai, and N. Du,  [Everyone Deserves A Reward: Learning Customized Human Preferences](https://arxiv.org/abs/2309.03126), 2023
+3. Kimi Team, [Kimi-VL Technical Report](https://arxiv.org/pdf/2504.07491), 2025
+
+2. **P. Cheng**, J. Xie, K. Bai, Y. Dai, and N. Du,  [Everyone Deserves A Reward: Learning Customized Human Preferences](https://arxiv.org/abs/2309.03126), 2023
 
 1. **P. Cheng**, R. Li, [Replacing Language Model for Style Transfer](https://arxiv.org/pdf/2211.07343.pdf), 2022
    
