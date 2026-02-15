@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 ## Conference Papers:
-*Equal Contribution. $`^\dagger`$Corresponding Author.
+*Equal Contribution. †Corresponding Author.
 
-22. H. Lu*, Y. Wen*, **P. Cheng$`^\dagger`$**, R. Ding, J. Guo, H. Xu, C. Wang, H. Chen, X. Jiang, G. Jiang, [Search Self-play: Pushing the Frontier of Agent Capability without Supervision](https://arxiv.org/abs/2510.18821), International Conference on Learning Representations (ICLR), 2026
+22. H. Lu*, Y. Wen*, **P. Cheng†**, R. Ding, J. Guo, H. Xu, C. Wang, H. Chen, X. Jiang, G. Jiang, [Search Self-play: Pushing the Frontier of Agent Capability without Supervision](https://arxiv.org/abs/2510.18821), International Conference on Learning Representations (ICLR), 2026
 
 
-21. Z. Li, **P. Cheng$`^\dagger`$**, Z. Yu, F. Tong, A. Gao, T. Chang, X. Wan, E. Zhao, X. Jiang, G. Jiang, [Eliminating Inductive Bias in Reward Models with Information-Theoretic Guidance](https://arxiv.org/abs/2512.23461), International Conference on Learning Representations (ICLR), 2026
+21. Z. Li, **P. Cheng†**, Z. Yu, F. Tong, A. Gao, T. Chang, X. Wan, E. Zhao, X. Jiang, G. Jiang, [Eliminating Inductive Bias in Reward Models with Information-Theoretic Guidance](https://arxiv.org/abs/2512.23461), International Conference on Learning Representations (ICLR), 2026
 
 20. Y. Du\*, Z. Li\*, **Pengyu Cheng**\*, Z. Chen, Y. Xie, X. Wan, and A. Gao. [Simplify rlhf as
 reward-weighted sft: A variational method](https://arxiv.org/abs/2502.11026), Transactions on Machine Learning Research (TMLR), 2026
@@ -25,7 +25,7 @@ reward-weighted sft: A variational method](https://arxiv.org/abs/2502.11026), Tr
 
 17. **P. Cheng**\*, Y. Yang\*, J. Li\*, Y. Dai, T. Hu, P. Cao, N. Du, X. Li, [Adversarial Preference Optimization: Enhancing Your Alignment via RM-LLM Games](https://arxiv.org/abs/2311.08045), Findings of the Association for Computational Linguistics (ACL), 2024
 
-16. J. Xie, **P. Cheng$`^\dagger`$**, X. Liang, Y. Dai, and N. Du, [Chunk, Align, Select: A Simple Long-sequence Processing Method for Transformers](https://arxiv.org/pdf/2308.13191.pdf), Annual Meeting of the Association for Computational Linguistics (ACL), 2024
+16. J. Xie, **P. Cheng†**, X. Liang, Y. Dai, and N. Du, [Chunk, Align, Select: A Simple Long-sequence Processing Method for Transformers](https://arxiv.org/pdf/2308.13191.pdf), Annual Meeting of the Association for Computational Linguistics (ACL), 2024
 
 15. K. Bai\*, **P. Cheng**\*, W. Hao, R. Henao, and L. Carin, [Estimating Total Correlation with Mutual Information Estimators](https://arxiv.org/pdf/2011.04794.pdf), Artificial Intelligence and Statistics Conference (AISTATS), 2023
 
