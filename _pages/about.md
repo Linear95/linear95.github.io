@@ -32,7 +32,7 @@ I received my Ph.D. from the Department of Electrical and Computer Engineering a
 			
 ## Timeline:
 
-- [2026/01/21\6] Two papers ([SSP](https://arxiv.org/abs/2510.18821) and [DIR](https://arxiv.org/abs/2512.23461), as the corresponding author) got accepted by ICLR~2026. 
+- [2026/01/26] Two papers ([SSP](https://arxiv.org/abs/2510.18821) and [DIR](https://arxiv.org/abs/2512.23461), as the corresponding author) got accepted by ICLR 2026. 
 
 - [2025/12/21] Began serving as an Area Chair (AC) of ARR 2026.
 
