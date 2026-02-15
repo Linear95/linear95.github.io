@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-### Welcome to Pengyu Cheng's homepage!
+Welcome to Pengyu Cheng's homepage!
 
-I am a researcher at **Alibaba Qwen Applications Business Group**, leading RL training of the *Qwen Large Model Application Team*. We primarily focus on enhancing LLMs’ foundational capacity via training techniques such as **RLHF**, **RLVR**, and **Agentic RL**.
-I am an enthusiast about LLM **self-evolution** via **multi-agent gaming**, which I believe is the most promising path to unleashing the potential of large models. 
+I am a researcher at [Alibaba Qwen Applications Business Group](https://github.com/Qwen-Applications), leading RL training of the *Qwen Large Model Application* Team. We primarily focus on enhancing LLMs’ foundational capacity via training techniques such as RLHF, RLVR, and Agentic RL.
+I am an enthusiast about LLM self-evolution via multi-agent gaming, which I believe is the most promising path to unleashing the potential of large models. 
 
 
-I was previously a member of the **RL & Agent** Team at **Moonshot (Kimi) AI**, and the **Hunyuan LLM** Team at **Tencent AI Lab**. Besides, I have substantial experience in NLP fairness, text generation,  representation learning, and information theory.
+I was previously a member of the *RL & Agent* Team at [Moonshot (Kimi) AI](https://www.moonshot.ai/), and the *Hunyuan LLM* Team at [Tencent AI Lab](https://ailab.tencent.com/ailab/en/index/). Besides, I have substantial experience in NLP fairness, text generation,  representation learning, and information theory.
 
-I received my **Ph.D.** from the Department of Electric and Computer Engineering at **Duke University** in 2021. My Ph.D. advisor is Dr. [Lawrence Carin](http://people.ee.duke.edu/~lcarin/). I graduated with my **B.S.** from the Department of Mathematical Sciences at **Tsinghua University** in 2017.
+I received my Ph.D. from the Department of Electrical and Computer Engineering at [Duke University](https://ece.duke.edu/) in 2021. My Ph.D. advisor is Dr. [Lawrence Carin](http://people.ee.duke.edu/~lcarin/). I graduated with my B.S. from the Department of Mathematical Sciences at [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2017.
 
 
 ### Selected Publications
