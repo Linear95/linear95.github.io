@@ -5,7 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
-3. Oral Presentation at AAAI 2020
+4. Oral Presentation at LMG 2025
+    * Topic:  [Search Self-play: Pushing the Frontier of Agent Capability without Supervision](https://arxiv.org/abs/2510.18821)
+    * Slides
+
+5. Oral Presentation at AAAI 2020
     * Topic: [Dynamic Embedding on Textual Networks via a Gaussian Process](http://people.ee.duke.edu/~lcarin/DetGP_AAAI_final.pdf)
     * [Video](https://drive.google.com/open?id=1Q9TUCEZyivOG5HYRLj6BEux2gZksKATA)
 

@@ -7,17 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Pengyu Cheng's homepage!
+### Welcome to Pengyu Cheng's homepage!
+
+I am a researcher at **Alibaba Qwen Applications Business Group**, leading RL training of the *Qwen Large Model Application Team*. We primarily focus on enhancing LLMs’ foundational capacity via training techniques such as **RLHF**, **RLVR**, and **Agentic RL**.
+I am an enthusiast about LLM **self-evolution** via **multi-agent gaming**, which I believe is the most promising path to unleashing the potential of large models. 
 
 
-I am currently a researcher at Alibaba Group, leading Quark Foundation LLM RL Team. Our team focuses on enhancing LLMs' capacity via RLHF, RLVR, and agentic RL.
+I was previously a member of the **RL & Agent** Team at **Moonshot (Kimi) AI**, and the **Hunyuan LLM** Team at **Tencent AI Lab**. Besides, I have substantial experience in NLP fairness, text generation,  representation learning, and information theory.
 
-I was previously a member of the RL & Agent Team at Moonshot AI (Kimi), and the Hunyuan LLM Team at Tencent AI Lab. I have conducted research and projects about LLM Self-play, Alignment (RLHF), Text Generation, and NLP Fairness. Besides, I worked on Bayesian and probabilistic machine learning at graduate school.
-
-I received my Ph.D. from the Department of Electric and Computer Engineering at Duke University in 2021. My Ph.D. advisor is Dr. [Lawrence Carin](http://people.ee.duke.edu/~lcarin/). I graduated with my B.S. from the Department of Mathematical Sciences at Tsinghua University in 2017.
+I received my **Ph.D.** from the Department of Electric and Computer Engineering at **Duke University** in 2021. My Ph.D. advisor is Dr. [Lawrence Carin](http://people.ee.duke.edu/~lcarin/). I graduated with my **B.S.** from the Department of Mathematical Sciences at **Tsinghua University** in 2017.
 
 
-## Selected Publications:
+### Selected Publications
 
 | | | | |
 |-----|:-------|:-----|----|
@@ -29,8 +30,15 @@ I received my Ph.D. from the Department of Electric and Computer Engineering at 
 | <image src="/images/papers/fig_CLUB.png"  width="480" height="300">|[CLUB: A Contrastive Log-ratio Upper Bound of Mutual Information](https://arxiv.org/abs/2006.12013)|**P. Cheng**, W. Hao, S. Dai, J. Liu, Z. Gan, L. Carin|2020|
 
 			
-## Timeline:
-- [2025/02/22] Began serving as an Area Chair (AC) for ARR 2025.
+### Timeline
+
+- [2026/01/21\6] Two papers ([SSP](https://arxiv.org/abs/2510.18821) and [DIR](https://arxiv.org/abs/2512.23461), as the corresponding author) got accepted by ICLR~2026. 
+
+- [2025/12/21] Began serving as an Area Chair (AC) of ARR 2026.
+
+- [2025/12/19] One co-first-author paper ([VAR](https://arxiv.org/abs/2502.11026)) got accepted by TMLR 2026.
+
+- [2025/02/22] Began serving as an Area Chair (AC) of ARR 2025.
 
 - [2025/01/23] One LLM safety paper ([Atoxia](https://arxiv.org/abs/2408.14853)) got accepted by NAACL 2025.
 
