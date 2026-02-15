@@ -18,7 +18,7 @@ I was previously a member of the *RL & Agent* Team at [Moonshot (Kimi) AI](https
 I received my Ph.D. from the Department of Electrical and Computer Engineering at [Duke University](https://ece.duke.edu/) in 2021. My Ph.D. advisor is Dr. [Lawrence Carin](http://people.ee.duke.edu/~lcarin/). I graduated with my B.S. from the Department of Mathematical Sciences at [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2017.
 
 
-### Selected Publications
+## Selected Publications:
 
 | | | | |
 |-----|:-------|:-----|----|
@@ -30,7 +30,7 @@ I received my Ph.D. from the Department of Electrical and Computer Engineering a
 | <image src="/images/papers/fig_CLUB.png"  width="480" height="300">|[CLUB: A Contrastive Log-ratio Upper Bound of Mutual Information](https://arxiv.org/abs/2006.12013)|**P. Cheng**, W. Hao, S. Dai, J. Liu, Z. Gan, L. Carin|2020|
 
 			
-### Timeline
+## Timeline:
 
 - [2026/01/21\6] Two papers ([SSP](https://arxiv.org/abs/2510.18821) and [DIR](https://arxiv.org/abs/2512.23461), as the corresponding author) got accepted by ICLR~2026. 
 
