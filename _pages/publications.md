@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 ## Conference Papers:
-*Equal Contribution. <sup>†</sup>Corresponding Author.
+\*Equal Contribution. <sup>†</sup>Corresponding Author.
 
-22. H. Lu*, Y. Wen*, **P. Cheng**<sup>†</sup>, R. Ding, J. Guo, H. Xu, C. Wang, H. Chen, X. Jiang, G. Jiang, [Search Self-play: Pushing the Frontier of Agent Capability without Supervision](https://arxiv.org/abs/2510.18821), International Conference on Learning Representations (ICLR), 2026
+22. H. Lu\*, Y. Wen\*, **P. Cheng**<sup>†</sup>, R. Ding, J. Guo, H. Xu, C. Wang, H. Chen, X. Jiang, G. Jiang, [Search Self-play: Pushing the Frontier of Agent Capability without Supervision](https://arxiv.org/abs/2510.18821), International Conference on Learning Representations (ICLR), 2026
 
 
 21. Z. Li, **P. Cheng**<sup>†</sup>, Z. Yu, F. Tong, A. Gao, T. Chang, X. Wan, E. Zhao, X. Jiang, G. Jiang, [Eliminating Inductive Bias in Reward Models with Information-Theoretic Guidance](https://arxiv.org/abs/2512.23461), International Conference on Learning Representations (ICLR), 2026
